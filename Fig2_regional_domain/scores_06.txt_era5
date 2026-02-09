@@ -1,0 +1,42 @@
+Region: South_Asia
+  Hit Rate: 0.8229
+  False Alarm Rate: 0.1358
+  Bias Score: 0.9522
+  Accuracy: 0.8883
+  CSI: 0.7287
+
+Region: North Africa
+  Hit Rate: 0.8622
+  False Alarm Rate: 0.3247
+  Bias Score: 1.2768
+  Accuracy: 0.8776
+  CSI: 0.6095
+
+Region: South Africa
+  Hit Rate: 0.9187
+  False Alarm Rate: 0.2210
+  Bias Score: 1.1793
+  Accuracy: 0.9117
+  CSI: 0.7287
+
+Region: North America
+  Hit Rate: 0.8619
+  False Alarm Rate: 0.1622
+  Bias Score: 1.0288
+  Accuracy: 0.9095
+  CSI: 0.7386
+
+Region: South America
+  Hit Rate: 0.9382
+  False Alarm Rate: 0.2241
+  Bias Score: 1.2092
+  Accuracy: 0.9327
+  CSI: 0.7381
+
+Region: Australia
+  Hit Rate: 0.9297
+  False Alarm Rate: 0.2745
+  Bias Score: 1.2814
+  Accuracy: 0.9293
+  CSI: 0.6878
+
